@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/i20zHI_cw/
